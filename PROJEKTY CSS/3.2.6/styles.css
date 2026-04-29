@@ -1,0 +1,28 @@
+.login-form{
+    padding: 30px;
+    border-radius: 20px;
+
+}
+
+input {
+    box-sizing: border-box;
+    margin: 8px;
+}
+
+input[type="email"]
+input[type="password"]{ 
+    width: 260px;
+    height: 42px;
+    padding: 8px 12px;
+    border: 1px solid gray;
+}
+input[type="submit"]{
+width: 260px;
+height:42px;
+padding: 8px 12px;
+border: 1px solid gray;
+background-color: lightblue;
+font-weight: bold;
+cursor: pointer;
+}
+     

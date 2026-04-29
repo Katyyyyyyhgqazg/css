@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(66, 209, 70);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.card{
+    background-color:rgb(254, 252, 254);
+    width: 600px;
+    margin: 100px auto;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(red, green, blue, alpha)
+}
+h1{
+    text-align: center;
+    color:blue;
+}
+.blue{
+    color:blue;
+    font-weight: bold;
+}
+.red{
+    color:rgb(228, 17, 35);
+}

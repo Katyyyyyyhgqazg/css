@@ -1,0 +1,20 @@
+a{
+   text-decoration: none;
+   color: blue;
+}
+a:hover{
+    color: aqua;
+    TEXT-DECORATION: underline;
+}
+a:active {
+    color:brown;
+}
+
+input[type="email"]{
+  border: 2px solid gray;
+  padding: 10px;
+  border-radius: 8px;
+  
+
+
+}
